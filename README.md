@@ -50,5 +50,7 @@ revoshop_db/
 └── README.md
 ```
 
+## ERD
 
+![ERD](DOCS/ERD.png)
 
